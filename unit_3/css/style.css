@@ -1,0 +1,19 @@
+h1 {
+	text-align: center;
+	color: red;
+	
+}
+
+
+nav {
+	text-align: left;
+	
+}
+
+p {text-align: center;
+
+}
+body{
+	background-image:url(../images/fitness.jpg);
+	background-size: cover;
+}
