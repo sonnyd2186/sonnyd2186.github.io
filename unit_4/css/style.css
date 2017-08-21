@@ -1,0 +1,22 @@
+h1 {
+	text-align: center;
+	color: red;
+	font-family: 'Permanent Marker', cursive;
+	
+}
+
+
+nav {
+	text-align: left;
+	
+}
+
+p {
+	text-align: center;
+	font-family: 'Baloo Bhaijaan', cursive;
+
+}
+body{
+	background-image:url(../images/fitness.jpg);
+	background-size: cover;
+}
